@@ -3,7 +3,7 @@
 @prefix doap: <http://usefulinc.com/ns/doap#> .
 @prefix units: <http://lv2plug.in/ns/extensions/units#> .
 
-<http://your-domain.com/plugins/compressor1176>
+<http://robida.net/plugins/compressor1176>
     a lv2:Plugin, lv2:CompressorPlugin ;
     doap:name "1176 Compressor" ;
     doap:license <http://opensource.org/licenses/GPL-3.0> ;
